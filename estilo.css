@@ -1,0 +1,12 @@
+em {
+            color:blueviolet; 
+            text-decoration:double; text-decoration: underline;
+        }
+        code {
+        color: chocolate; 
+        text-decoration: underline;
+        }
+        body > main > ol > li:nth-child(1) > code{
+            color:rgb(31, 216, 123);
+            background-color: blueviolet;
+        }
